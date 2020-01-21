@@ -1,0 +1,8 @@
+[submodule "_Scripts"]
+	path = _Scripts
+	url = https://github.com/PepperDash-Engineering/pdt-powershell.git
+	branch = master
+[submodule "_SSharpLibraries/PepperDashCoreBuilds"]
+	path = _SSharpLibraries/PepperDashCoreBuilds
+	url = https://bitbucket.org/Pepperdash_Products/pepperdashcore-builds.git
+	branch = master
